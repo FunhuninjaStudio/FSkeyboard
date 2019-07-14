@@ -1,0 +1,8 @@
+#directories
+bin/
+bin-int/
+Sandbox/
+.vs/
+#files
+FSKeyboard.sln
+*.user
